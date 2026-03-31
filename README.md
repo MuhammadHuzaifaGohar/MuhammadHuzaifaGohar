@@ -58,14 +58,6 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ---
 
-## 📊 Performance Dashboard
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaGohar/&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaGohar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-gohar
 
