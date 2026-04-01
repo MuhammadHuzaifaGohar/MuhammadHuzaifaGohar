@@ -23,6 +23,14 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ---
 
+## 🏆 Industry Certifications
+* **Google Data Analytics Professional Certificate** – *Google*
+* **IBM Data Analyst Professional Certificate** – *IBM*
+* **AWS Certified Cloud Practitioner** (Data & Analytics Focus) – *Amazon Web Services*
+* **Tableau Desktop Specialist** – *Tableau*
+
+---
+
 ## Technical Ecosystem
 
 ### **Languages & Core Analytics**
@@ -44,14 +52,6 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ---
 
-## 🏆 Industry Certifications
-* **Google Data Analytics Professional Certificate** – *Google*
-* **IBM Data Analyst Professional Certificate** – *IBM*
-* **AWS Certified Cloud Practitioner** (Data & Analytics Focus) – *Amazon Web Services*
-* **Tableau Desktop Specialist** – *Tableau*
-
----
-
 ## 📁 Popular Repositories
 
 | Project | Tech Stack | Description |
@@ -64,8 +64,9 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 ---
 
 ## 🤝 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-gohar
-
+* **[LinkedIn]**(https://www.linkedin.com/in/muhammad-huzaifa-gohar)
+* **[Kaggle]**(https://www.kaggle.com/muhammadhuzaifagohar/code)
+* **[GitHub]**(https://github.com/MuhammadHuzaifaGohar)
 ---
 
 ### KEYWORDS:
