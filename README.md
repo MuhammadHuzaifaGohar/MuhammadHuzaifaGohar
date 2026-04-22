@@ -73,3 +73,5 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ### KEYWORDS:
 `Data Analyst Specialist` `Business Intelligence (BI)` `Data Storytelling` `Python Automation` `Web Scraping (Beautiful Soup)` `SQL Database Optimization` `Streamlit Web Apps` `Tableau Dashboards` `Advanced Excel Analytics` `Exploratory Data Analysis (EDA)` `ETL Process` `Data Mining` `Predictive Analytics` `Quantitative Research`
+
+***Copyright © Muhammad Huzaifa. All Rights Reserved***
